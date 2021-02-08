@@ -1,2 +1,3 @@
-# acc2020
-Apuntes de accesibilidad
+# Apuntes de la asignatura de Accesibilidad
+## Máster en Gestión de Contenidos Digitales
+
